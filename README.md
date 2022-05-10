@@ -1,10 +1,10 @@
-### Kubernetes-Learning
+# Kubernetes-Learning
  Learning Kubernetes and docker
 ## Kubectl commad
+### ดูทรัพยากรทั้งหมด
     Kubectl get all
-- ดูทรัพยากรทั้งหมด
+### ดู pods
     Kubectl get pods
-- ดู pod
+### ใช้งานไฟล์ ต้องเป็นไฟล์นามสกุล .yml เท่านั้น
     Kubectl apply -f <file.yml>
-- ใช้งานไฟล์ ต้องนามสกุล yml เท่านั้น
     
