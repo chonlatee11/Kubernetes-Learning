@@ -17,3 +17,4 @@
     Kubectl delete pod/service --all
 ### ลบ service ทั้งหมด
     Kubectl delete all --all
+![https://kubernetes.io/docs/reference/kubectl/cheatsheet/]
